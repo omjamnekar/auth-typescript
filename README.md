@@ -98,6 +98,26 @@ Use the provided `.http` files with REST Client extension in VSCode:
 - `user.http`
 
 ---
+## API Flow Previews
+
+![API Preview]
+
+[register http request]
+(./assets/register.png)
+
+[login http request]
+(./assets/login.png)
+
+[user http request]
+(./assets/user.png)
+
+[forgot password http request]
+(./assets/forgot.png)
+
+[reset password http request]
+(./assets/reset.png)
+
+...
 
 ##  Technologies Used
 

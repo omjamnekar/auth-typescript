@@ -1,0 +1,3 @@
+GET http://localhost:5000/api/auth/admin
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDM4YTk2ZjU2ZGE0MmYyMzI2NWU0NCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0NTA2MjU2MSwiZXhwIjoxNzQ1MTQ4OTYxfQ.ijC4xzg8dAo-PYTp665uNG_YJKp7fcXk6w8VZijQ9kI

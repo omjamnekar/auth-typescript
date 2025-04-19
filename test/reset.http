@@ -1,0 +1,8 @@
+
+POST http://localhost:5000/api/auth/reset-password
+Content-Type: application/json
+
+{
+  "token": "f0d717b7a42fd17491f807092d6c6c487fd70bc905b81c81e5247a1c21a3ca04",
+  "newPassword": "newSecurePass123"
+}

@@ -1,0 +1,3 @@
+### Get Logged-in User Info
+GET http://localhost:5000/api/user/profile
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDM4NzE4YzliNzMyYTZhNDU5N2Y0OCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ1MDY2ODU2LCJleHAiOjE3NDUxNTMyNTZ9.YdGI83OTbEF_5mr7feJuwitLsorwZ7Bd4xkQ7SrsTXQ

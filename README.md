@@ -98,9 +98,6 @@ Use the provided `.http` files with REST Client extension in VSCode:
 - `user.http`
 
 ---
-## API Flow Previews
-
-![API Preview]
 
 ##  API Request Previews
 
